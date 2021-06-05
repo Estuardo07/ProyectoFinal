@@ -1,0 +1,16 @@
+.dropdown-menu {
+    width: 200px;
+}
+
+.dropdown-menu a:hover {
+    text-decoration: none;
+}
+
+.navbar-brand img {
+    width: 200px;
+    height: 75px;
+}
+
+#dropdown-basic-button button::after {
+    color: #fff !important;
+}
